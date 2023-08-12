@@ -17,7 +17,8 @@ const alcancia = () => {
         saveMoney += coins;
         console.log(`Has Ahorrado: $${saveMoney}`);
     }
-    return alcancia2;
+    
+    return alcancia2
 }
 
 const miAlcancia = alcancia();
@@ -31,3 +32,7 @@ const alcanciaDeAna = alcancia()
 alcanciaDeAna(5);
 alcanciaDeAna(6);
 alcanciaDeAna(6);
+
+
+
+
